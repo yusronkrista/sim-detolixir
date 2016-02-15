@@ -1,2 +1,2 @@
-# sim-detolixir
-SIM Pemasaran Detolixir Surabaya
+# SIM Pemasaran Detolixir Surabaya
+Yusron Kristanto - Aziz Mu'in - Siti Retno Anggraini
